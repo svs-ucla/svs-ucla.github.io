@@ -4,6 +4,10 @@
 	background-size: cover;
 }
 
+.body-bg {
+	background-color: black;
+}
+
 .connect {
 	background-image: url("../con.png");
 	background-repeat: no-repeat;
