@@ -114,6 +114,8 @@ body {
   display: block;
   width: 250px;
   height: 250px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .thumb1 a:hover { 
@@ -126,4 +128,5 @@ body {
 	width: 100%;
 	height: 100%;
 	border-radius: 20px;
+
 }
