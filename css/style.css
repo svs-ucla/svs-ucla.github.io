@@ -130,3 +130,50 @@ body {
 	border-radius: 20px;
 
 }
+
+.tables td {
+	font-size: 14px;
+	padding: 10px 40px 10px 0px;
+}
+
+.clickButton {
+	padding: 20px;
+	color: gold;
+	background-color: black;
+	border: 0px;
+	border-radius: 5px;
+}
+
+.clickButton:hover {
+	padding: 20px;
+	color: black;
+	background-color: white;
+	border: 0px;
+	border-radius: 5px;
+}
+
+.jumboLink {
+	color: black;
+	padding: 10px;
+	font-weight: 500;
+}
+
+.jumboLink:hover {
+	color: white;
+}
+
+.center-table {
+	margin: 0px auto;
+}
+
+.special-h2 {
+	padding: 15px;
+	background-color: gold;
+	border-radius: 10px;
+	
+}
+
+.decrease-size-7 {
+	zoom: 0.7;
+	-moz-transform: scale(0.7);
+}
